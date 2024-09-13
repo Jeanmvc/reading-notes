@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="styles.css">
+
 # reading-notes
 
 En la página principal:
@@ -17,6 +17,3 @@ En la página principal:
 
 ### **4. Asegúrate de presentarte e incluir un enlace a la página de tu portafolio de GitHub**
 
-<div align="center">
-<img class="rounded-image" src="https://github.com/user-attachments/assets/6c3cb9a8-1f93-4b8f-8394-09f6de2a4afd" alt="imagen"  width: 450px; height: 550px;">
-</div>
