@@ -16,4 +16,4 @@ Nos dice también que usualmente juzgamos a las personas que son más exitosas q
 </div>
 
 > [!NOTE]
-> Se esta respondeiendo las preguntas del LB01 de la primera clase.
+> tarea completada.
