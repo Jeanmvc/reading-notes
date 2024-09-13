@@ -1,4 +1,8 @@
-## **Markdown y Github**
+## **Lab 01: Markdown y Github**
+ Growth Mindset
+<div align="center">
+  <img class="rounded-image" src="https://github.com/user-attachments/assets/7dac9d88-97ec-4b4f-bfa4-6d4af9c98784" alt="imagen" width="200px" height="200px">
+</div>
 
  ### :thinking: **Explica el “Growth Mindset” con tus propias palabras** 
 
@@ -7,13 +11,11 @@ Nos habla de que la *mentalidad de crecimiento* es parte fundamental tanto en nu
 Nos dice también que usualmente juzgamos a las personas que son más exitosas que nosotros. No deberíamos pensar así, sino que eso nos ayudará a nosotros también a crecer. Juntarse con personas con mentalidad de crecimiento hará que nos desarrollemos mejor, tanto en el trabajo como fuera de él.
 
 ### :scream: **Incluye 3 recordatorios sobre cómo mantenerte con una Growth Mindset**
-* **Ser persistente ante los desafíos**, que en lugar de rendirse y frustrarse da un paso atrás y busca nuevas maneras de resolverlo.
-* **Enfrentar obstáculos sin evitar el esfuerzo**, no dejarse llevar por las gratificaciones inmediatas que son distractores.
-* **Ver el éxito de las demás personas como inspiración.**
+- [x] **Ser persistente ante los desafíos**, que en lugar de rendirse y frustrarse da un paso atrás y busca nuevas maneras de resolverlo.
+- [x] **Enfrentar obstáculos sin evitar el esfuerzo**, no dejarse llevar por las gratificaciones inmediatas que son distractores.
+- [x] **Ver el éxito de las demás personas como inspiración.**
 
-<div align="center">
-  <img class="rounded-image" src="https://github.com/user-attachments/assets/7dac9d88-97ec-4b4f-bfa4-6d4af9c98784" alt="imagen" width="200px" height="200px">
-</div>
+<br>
 
 > [!NOTE]
 > tarea completada.
