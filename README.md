@@ -2,7 +2,9 @@
 
 ## Introducción
 
-Hola mi nombre es Jean Marco Vilca tengo estudios en computacion e informatica, mis campos favoritos de la teccnologia es el de la programacion y el desarrollo y gustaria aprender y desarrollar webs y apps para dar soluciones.
+Hola, mi nombre es Jean Marco Vilca. Tengo estudios en Computación e Informática, lo que me ha permitido adquirir una sólida base en diversas áreas tecnológicas. Mis campos favoritos dentro de la tecnología son la programación y el desarrollo, ya que disfruto creando soluciones innovadoras y eficientes.
+
+Estoy interesado en aprender y desarrollar sitios web y aplicaciones móviles. Creo que estas herramientas tienen un gran potencial para resolver problemas cotidianos y mejorar la vida de las personas. Mi objetivo es utilizar mis habilidades para diseñar y construir soluciones tecnológicas que sean tanto funcionales como intuitivas para los usuarios.
 
 ## Tabla de Contenidos
 
