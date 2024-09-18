@@ -1,21 +1,34 @@
-## **Lab 01: Markdown y Github**
- Growth Mindset
-<div align="center">
-  <img class="rounded-image" src="https://github.com/user-attachments/assets/7dac9d88-97ec-4b4f-bfa4-6d4af9c98784" alt="imagen" width="200px" height="200px">
-</div>
+# Reading Notes
 
- ### :thinking: **Explica el “Growth Mindset” con tus propias palabras** 
+## Introducción
 
-Nos habla de que la *mentalidad de crecimiento* es parte fundamental tanto en nuestra vida como en el trabajo. Cómo pensamos a largo plazo, cómo nos trazamos metas, cómo no nos desviamos del camino correcto. Y aunque hay tentación, nos cuenta sobre alguien que pasó por mucho para poder entenderlo de la manera correcta. No solo es ser inteligente o ser bueno, sino también cómo va de la mano con tu mentalidad, de que por más problemas que tengas, cómo los afrontas, cómo los resuelves.
+Hola mi nombre es Jean Marco Vilca tengo estudios en computacion e informatica, mis campos favoritos de la teccnologia es el de la programacion y el desarrollo y gustaria aprender y desarrollar webs y apps para dar soluciones.
 
-Nos dice también que usualmente juzgamos a las personas que son más exitosas que nosotros. No deberíamos pensar así, sino que eso nos ayudará a nosotros también a crecer. Juntarse con personas con mentalidad de crecimiento hará que nos desarrollemos mejor, tanto en el trabajo como fuera de él.
+## Tabla de Contenidos
 
-### :scream: **Incluye 3 recordatorios sobre cómo mantenerte con una Growth Mindset**
-- [x] **Ser persistente ante los desafíos**, que en lugar de rendirse y frustrarse da un paso atrás y busca nuevas maneras de resolverlo.
-- [x] **Enfrentar obstáculos sin evitar el esfuerzo**, no dejarse llevar por las gratificaciones inmediatas que son distractores.
-- [x] **Ver el éxito de las demás personas como inspiración.**
+- **102**
+  - [**Read 01:** Aprendiendo Markdown.](102/lectura1.md)
+  - [**Read 02:** Herramientas del Desarrollador.](102/lectura2.md)
+  - [**Read 03:** Control de versiones con Git.](102/lectura3.md)
+  - [**Read 04:** Estructura y Diseño: Wireframe, HTML y CSS.](102/lectura4.md)
+  - [**Read 05:** Introducción a JavaScript.](102/lectura5.md)
+  - [**Read 06:** Programación con JavaScript.](102/lectura6.md)
+  - [**Read 07:** Operadores y Bucles.](102/lectura7.md)
+  - [**Read 08:** Lectura 8.](102/lectura8.md)
 
-<br>
-
-> [!NOTE]
-> tarea completada.
+- **201**
+  - [**Read 01:** Lectura 1.](102/lectura1.md)
+  - [**Read 02:** Lectura 2.](102/lectura2.md)
+  - [**Read 03:** Lectura 3.](102/lectura3.md)
+  - [**Read 04:** Lectura 4.](102/lectura4.md)
+  - [**Read 05:** Lectura 5.](102/lectura5.md)
+  - [**Read 06:** Lectura 6.](102/lectura6.md)
+  - [**Read 07:** Lectura 7.](102/lectura7.md)
+  - [**Read 08:** Lectura 8.](102/lectura8.md)
+  - [**Read 09:** Lectura 9.](102/lectura9.md)
+  - [**Read 10:** Lectura 10.](102/lectura10.md)
+  - [**Read 11:** Lectura 11.](102/lectura11.md)
+  - [**Read 12:** Lectura 12.](102/lectura12.md)
+  - [**Read 13:** Lectura 13.](102/lectura13.md)
+  - [**Read 14:** Lectura 14.](102/lectura14.md)
+  - [**Read 15:** Lectura 15.](102/lectura15.md)
