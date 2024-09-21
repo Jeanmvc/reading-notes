@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Desarrollador</title>
+  </head>
+  <style>
+    nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      position: relative;
+      width: 100%;
+      background-color: white;
+    }
+
+    ul {
+      display: flex;
+      list-style: none;
+      gap: 20px;
+    }
+
+    a {
+      text-decoration: none;
+      /* permite cambiar el color del texto */
+      color: #000;
+    }
+
+    /* # se usa solo para buscar por id */
+    #boton-inicio {
+      color: rgb(61, 135, 255);
+    }
+
+    /* . se usa solo para buscar por class */
+    .list-item {
+      font-weight: bold;
+    }
+
+    main {
+      display: flex;
+      margin-top: 40px;
+      align-items: center;
+      justify-content: center;
+      font-family: Verdana, sans-serif;
+
+      gap: 100px;
+      margin: 10%;
+    }
+
+    footer{
+      
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      position: relative;
+      width: 100%;
+      background-color: white;
+      margin-top: 40px;
+    
+    }
+    body{
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+
+
+    /* footer {
+      border: solid;
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+    } */
+  </style>
+  <body>
+    <!-- la cabecera de nuestra web -->
+    <header>
+      <!-- etique que permite crear la navegacion -->
+      <nav style="font-family: Helvetica, sans-serif">
+        <div>
+          <ul>
+            <li><a class="list-item" href="#inicio"> Inicio</a></li>
+            <li><a class="list-item" href="#proyectos">Proyectos</a></li>
+            <li><a class="list-item" href="#contacto">Contacto</a></li>
+          </ul>
+        </div>
+        <div>
+          <a id="boton-inicio" href="">Empieza Ahora</a>
+        </div>
+      </nav>
+    </header>
+    <!-- main: Permite indicar cual es la sección principal de la web -->
+    <main>
+      <div>
+        <!-- la unidad de medida que usa img por defecto son pixelex (px) -->
+        <img width="200" height="200" src="imagen1.jpg" />
+      </div>
+      <div>
+        <h1>Sobre Mí</h1>
+        <p>
+          ¡Hola! Soy un apasionado del mundo de la programación y el diseño web.
+          Aunque recién estoy empezando mi camino en el desarrollo de software,
+          me fascina la idea de aprender y dominar diferentes lenguajes de
+          programación para crear páginas web únicas y con un enfoque innovador.
+        </p>
+      </div>
+    </main>
+    <section>
+    <div>
+      <h2 style="font-size: 30px">Proyectos realizados</h2>
+      <div>
+        <h3>Blog Personal Informativo</h3>
+        <p>
+          Descripción: Un blog sencillo donde compartes artículos sobre tus
+          intereses. Incluye imágenes, texto y enlaces.
+          Características: Diseño
+          responsivo que se adapta a diferentes tamaños de pantalla. Navegación
+          sencilla con un menú en la parte superior. Secciones de artículos con
+          imágenes y texto.
+          Tecnologías: HTML para la estructura, CSS para el
+          diseño y JavaScript para la interactividad básica (como un botón de
+          “leer más”).
+        </p>
+      </div>
+    </section>
+
+      <div>
+        <h3>Galería de Imágenes</h3>
+        <p>
+          Descripción: Una página web que muestra una colección de imágenes
+          organizadas en una cuadrícula.
+          Características: Diseño responsivo con
+          imágenes que se ajustan al tamaño de la pantalla. Efectos de hover
+          para resaltar las imágenes. Modal para ver las imágenes en tamaño
+          completo.
+          Tecnologías: HTML para la estructura, CSS para el diseño y
+          JavaScript para la funcionalidad del modal.
+        </p>
+      </div>
+      <div>
+        <h3>Página de Contacto Descripción:</h3>
+        <p>Una página de contacto donde los
+        visitantes pueden enviarte mensajes. 
+        Características: Formulario de
+        contacto con campos para nombre, correo electrónico y mensaje.
+        Validación de formularios para asegurar que los campos estén completos
+        antes de enviar. Diseño responsivo que se adapta a dispositivos móviles
+        y de escritorio.
+        Tecnologías: HTML para la estructura del formulario,
+        CSS para el diseño y JavaScript para la validación del formulario.</p>
+      </div>
+          </div>
+
+    <footer>
+      <div>
+        <p>&copy; 2024 Jean Marco Vilca</p>
+      </div>
+      <div>
+        <p>mejora tus ventas creando una web o app movil</p>
+      </div>
+    </footer>
+  </body>
+</html>
