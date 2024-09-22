@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Desarrollador</title>
+    <script src="./app.js"></script>
   </head>
   <style>
     nav {
@@ -73,6 +74,10 @@
     } */
   </style>
   <body>
+    <!-- cambia el color de fondo de manera dinamica -->
+    <script>
+      document.body.style.backgroundColor=colorFondo
+    </script>
     <!-- la cabecera de nuestra web -->
     <header>
       <!-- etique que permite crear la navegacion -->
@@ -96,9 +101,26 @@
         <img width="200" height="200" src="imagen1.jpg" />
       </div>
       <div>
+        <h3>
+          <script>
+            if (saludoUsuario === ""){
+            } else{
+              document.write(saludoUsuario)
+            }
+            
+          </script>
+          <script>
+            if (nombreUsuario === ""){
+              alert("Coloque su nombre")
+            }else{
+              document.write(nombreUsuario)
+            }       
+          </script>
+           a mi pagina.
+        </h3>
         <h1>Sobre Mí</h1>
         <p>
-          ¡Hola! Soy un apasionado del mundo de la programación y el diseño web.
+          ¡Hola!, Soy un apasionado del mundo de la programación y el diseño web.
           Aunque recién estoy empezando mi camino en el desarrollo de software,
           me fascina la idea de aprender y dominar diferentes lenguajes de
           programación para crear páginas web únicas y con un enfoque innovador.
@@ -108,7 +130,7 @@
     <section>
     <div>
       <h2 style="font-size: 30px">Proyectos realizados</h2>
-      <div>
+      <div id="color2">
         <h3>Blog Personal Informativo</h3>
         <p>
           Descripción: Un blog sencillo donde compartes artículos sobre tus
@@ -160,4 +182,5 @@
       </div>
     </footer>
   </body>
+  
 </html>
