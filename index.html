@@ -64,6 +64,15 @@
       font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
 
+    section{
+      display: flex;
+      margin-top: 0;
+      align-items: center;
+      justify-content: center;
+      font-family: Verdana, sans-serif;
+      gap: 100px;
+      margin: 10%;
+    }
 
 
     /* footer {
@@ -103,11 +112,15 @@
       <div>
         <h3>
           <script>
-            if (saludoUsuario === ""){
-            } else{
-              document.write(saludoUsuario)
+            if (saludoUsuario === "dia") {
+              document.write("Buenos Dias");
+             } else if (saludoUsuario === "tarde") {
+                document.write("Buenas tardes");
+              } else if (saludoUsuario === "noche") {
+              document.write("Buenas noches");
+            } else {
+              document.write("ERROR");
             }
-            
           </script>
           <script>
             if (nombreUsuario === ""){
@@ -145,8 +158,9 @@
         </p>
       </div>
     </section>
-
+    <section>
       <div>
+        
         <h3>Galería de Imágenes</h3>
         <p>
           Descripción: Una página web que muestra una colección de imágenes
@@ -158,8 +172,12 @@
           Tecnologías: HTML para la estructura, CSS para el diseño y
           JavaScript para la funcionalidad del modal.
         </p>
+      
       </div>
+    </section>
+    <section>
       <div>
+        
         <h3>Página de Contacto Descripción:</h3>
         <p>Una página de contacto donde los
         visitantes pueden enviarte mensajes. 
@@ -170,9 +188,11 @@
         y de escritorio.
         Tecnologías: HTML para la estructura del formulario,
         CSS para el diseño y JavaScript para la validación del formulario.</p>
+       
       </div>
+    </section>
           </div>
-
+        
     <footer>
       <div>
         <p>&copy; 2024 Jean Marco Vilca</p>
